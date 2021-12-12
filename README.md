@@ -1,7 +1,7 @@
 # flutter-beginner
 
 ## Reference & Acknowledgements 🖋 : 
-The Net Ninja [Flutter Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+The Net Ninja - [Flutter Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 ## Contents 📖 :
 
