@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 // pubspec.yaml
 fonts:
    - family: Montserrat
